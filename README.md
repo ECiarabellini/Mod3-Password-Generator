@@ -6,7 +6,7 @@ This password generator takes inputs from the user and returns a random string o
 In creating the logic behind the password generation, I was able to practice basic user input validation with while loops. I also practiced array and string manipulation.
 
 ## Installation
-none
+[link](https://eciarabellini.github.io/Mod3-Password-Generator/Develop/)
 
 ## Usage
 
